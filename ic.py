@@ -5,5 +5,5 @@ def saque (valSaque,valorSaldo):
 def deposito (valDepo, valorSaldo):
     return valorSaldo + valDepo 
 
-def verSaldo(valorSaldo):
-    return print(valorSaldo)
+def Saldo(valorSaldo):
+    return valorSaldo
